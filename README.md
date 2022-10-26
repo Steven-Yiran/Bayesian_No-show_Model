@@ -1,4 +1,3 @@
-# Bayesian No-show Model
-A bayesian network to model testing no-show probability
+# Bayesian Model Appointment Commitment Prediction
 
-Studied according to the "Probabilistic Graphical Model" on Coursera.
+Here we constructed a Bayesian probabilistic model to accuractly predict the probability of appointment no-shows based on person meta data.
